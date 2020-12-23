@@ -1,0 +1,32 @@
+{
+    "name": " Vanilla App for KaiOS",
+    "description": "Simple example of a to-do list",
+    "theme_color": "#ffffff",
+    "orientation": "default",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/assets/icons/kaios_56.png",
+            "type": "image/png",
+            "sizes": "56x56"
+        },
+        {
+            "src": "/assets/icons/kaios_112.png",
+            "type": "image/png",
+            "sizes": "112x112"
+        }
+    ],
+    "b2g_features": {
+        "type": "web",
+        "default_locale": "en-US",
+        "locales": {
+            "en-US": {
+                "name": "Vanilla App for KaiOS",
+                "subtitle": "Simple example of a to-do list",
+                "description": "Simple example of a to-do list"
+            }
+        },
+        "permissions": {},
+        "version": "1.0"
+    }
+}
