@@ -4,8 +4,8 @@
   "description": "A simple task application using only Vanilla",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --out-dir build --open && cp ./manifest.webapp ./build/ && cp -r ./assets/ ./build/",
-    "build": "parcel build index.html --out-dir build && cp ./manifest.webapp ./build/ && cp -r ./assets/ ./build/"
+    "start": "parcel index.html --out-dir build --open && cp ./manifest.webmanifest ./build/ && cp -r ./assets/ ./build/",
+    "build": "parcel build index.html --out-dir build && cp ./manifest.webmanifest ./build/ && cp -r ./assets/ ./build/"
   },
   "dependencies": {},
   "devDependencies": {
