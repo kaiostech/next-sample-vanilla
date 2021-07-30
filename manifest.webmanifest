@@ -1,5 +1,6 @@
 {
-    "name": " Vanilla App for KaiOS",
+    "id": "KaiOS-Vanilla-Sample-App",
+    "name": "Vanilla App for KaiOS",
     "description": "Simple example of a to-do list",
     "theme_color": "#ffffff",
     "orientation": "default",
